@@ -1,9 +1,5 @@
-#include<bits/stdc++.h>
-using namespace std;
- 
-//Key values of a and b
-const int a = 17;
-const int b = 20;
+#include<iostream>
+
  
 string encryptMessage(string msg)
 {
